@@ -1,4 +1,4 @@
-# Weather-App
+# Movie-Search-App
 
 *COMPANY*: CODTECH IT SOLUTIONS
 *NAME*: GAUTAM PATIDAR
