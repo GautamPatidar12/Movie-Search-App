@@ -1,3 +1,14 @@
+# Weather-App
+
+*COMPANY*: CODTECH IT SOLUTIONS
+*NAME*: GAUTAM PATIDAR
+*INTERN ID*: CT08NXL
+*DOMAIN*: REACT JS
+*DURATION*: 4 WEEKS
+*MENTOR*: NEELA SANTHOSH KUMAR
+
+
+
 #Movie Search App
 This is a simple movie search app built using React.js and the OMDb API. The app allows users to search for movies by title, displaying relevant information like the movie's year, poster, type (e.g., movie, series), and title. Below is a breakdown of the two primary components of the app: App.js and MovieCard.js.
 
